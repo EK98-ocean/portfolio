@@ -48,7 +48,13 @@ div.Contact{
     background-color: slateblue;
     color: whitesmoke;
     border: whitesmoke 4px solid;
-    align-self: center;
+}
+
+div.Contact img{
+    float: right;
+    height: 100px;
+    margin-right: 7px;
+    margin-bottom: 30px;
 }
 
 ul{
