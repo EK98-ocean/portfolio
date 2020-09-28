@@ -1,6 +1,7 @@
 body{
     background-color: skyblue;
     font-family: sans-serif;
+    color: darkblue;
 }
 
 img{
@@ -39,5 +40,7 @@ div.Contact{
 }
 
 ul{
-    list-style: none
+    padding: 0;
+    list-style-type: none;
+    
 }
