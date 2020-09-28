@@ -9,6 +9,10 @@ img{
     width: auto;
 }
 
+h1{
+    font-size: 36pt;
+}
+
 h2{
     font-size: 25pt;
     font-style: italic;
@@ -53,4 +57,8 @@ ul{
 
 span{
     font-weight: bold;
+}
+
+span.important{
+    font-style: italic;
 }
