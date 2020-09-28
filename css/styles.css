@@ -15,7 +15,14 @@ div{
 }
 
 div.About{
+    float: right;
+    text-align: center;
+    width: 25%;
     color: white;
     border: whitesmoke 4px dashed;
     background-color: rgb(32, 128, 207);
+}
+
+ul{
+    list-style: none
 }
