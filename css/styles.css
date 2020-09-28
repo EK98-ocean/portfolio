@@ -1,12 +1,17 @@
 body{
     background-color: skyblue;
-    font-family: sans-serif;
+    font-family: 'Lucida Grande';
     color: darkblue;
 }
 
 img{
     height: 200px;
     width: auto;
+}
+
+h2{
+    font-size: 25pt;
+    font-style: italic;
 }
 
 div{
