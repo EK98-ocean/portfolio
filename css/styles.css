@@ -10,9 +10,12 @@ img{
 
 div{
     border: slateblue 4px solid;
+    margin: 10px;
+    padding: 7px;
 }
 
 div.About{
-    border: darkgoldenrod 4px dashed;
+    color: white;
+    border: whitesmoke 4px dashed;
     background-color: rgb(32, 128, 207);
 }
