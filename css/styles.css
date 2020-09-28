@@ -25,6 +25,8 @@ div.About{
     float: right;
     text-align: center;
     width: 25%;
+    font-family: 'Lucida Grande';
+    font-style: italic;
     color: whitesmoke;
     border: whitesmoke 4px dashed;
     background-color: rgb(32, 128, 207);
