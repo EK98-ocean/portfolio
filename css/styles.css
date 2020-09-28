@@ -7,3 +7,12 @@ img{
     height: 200px;
     width: auto;
 }
+
+div{
+    border: slateblue 4px solid;
+}
+
+div.About{
+    border: darkgoldenrod 4px dashed;
+    background-color: rgb(32, 128, 207);
+}
