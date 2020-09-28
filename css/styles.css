@@ -30,6 +30,14 @@ div.Intro{
     border: whitesmoke 4px solid;
 }
 
+div.Contact{
+    float: right;
+    width: 25%;
+    background-color: slateblue;
+    color: whitesmoke;
+    border: whitesmoke 4px solid;
+}
+
 ul{
     list-style: none
 }
