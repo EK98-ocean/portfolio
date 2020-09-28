@@ -20,7 +20,11 @@ HTML and CSS, making use of divs, spans and classes in particular to create a we
 ## Support and contact details
 EK98-Ocean, contact via email: gakungr@gmail.com
 
+## Link to live site
+https://ek98-ocean.github.io/portfolio
+
 ### License
 *GNU General Public License*
+
 
 Copyright (c) 2020 **EK98-Ocean**
