@@ -44,9 +44,11 @@ div.Intro{
 
 div.Contact{
     float: right;
+    width: 90%;
     background-color: slateblue;
     color: whitesmoke;
     border: whitesmoke 4px solid;
+    align-self: center;
 }
 
 ul{
